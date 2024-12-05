@@ -1,0 +1,3 @@
+tqdm
+matplotlib
+ultralytics==8.2.92
